@@ -86,5 +86,4 @@ public class SeckillActivityController {
         resultMap.put("commodityDesc", seckillCommodity.getCommodityDesc());
         return "seckill_item";
     }
-
 }
